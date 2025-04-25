@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727983386621",
+    "project_id": "wonders-832b0",
+    "storage_bucket": "wonders-832b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727983386621:android:9bb1a1fc35598d6446b394",
+        "android_client_info": {
+          "package_name": "com.example.wonders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727983386621-abrajdl9uufvnb6d2vkdogeu139ql842.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wonders",
+            "certificate_hash": "a89f75a23554a767e82ac26c5d252928e2f4c2b6"
+          }
+        },
+        {
+          "client_id": "727983386621-oige8v4pecgvlsibmjivvfr8o01q543i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMTwl0UtGbYx_UNXOXvFAdvIFvKTd3Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727983386621-oige8v4pecgvlsibmjivvfr8o01q543i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
